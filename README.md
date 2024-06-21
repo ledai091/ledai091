@@ -12,4 +12,4 @@
    - <a href="https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0">Audio Signal Processing for Machine Learning - Valerio Velardo - The Sound of AI</a>
 5. **RAG** - Planing
 6. **Self-Supervised** = Planing
-7. **Using OpenAI AIP** - Planing
+7. **Using OpenAI API** - Planing

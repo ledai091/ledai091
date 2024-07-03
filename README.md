@@ -15,5 +15,5 @@
    - <a href="https://dspillustrations.com/pages/index.html">Learning DSP Illustrated</a>
    - <a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a>
 5. **RAG** - Planing
-6. **Self-Supervised** = Planing
+6. **Self-Supervised** - Planing
 7. **Using OpenAI API** - Planing

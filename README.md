@@ -8,6 +8,7 @@
 3. **Natural Language Processing**:
    - <a href="https://arxiv.org/pdf/1706.03762">Attention Is All You Need</a> 
    - <a href="https://arxiv.org/pdf/1810.04805">BERT</a>
+   - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">NLP Course - Hugging Face</a>
 4. **Audio Signal Processing**:
    - <a href="https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0">Audio Signal Processing for Machine Learning - Valerio Velardo - The Sound of AI</a>
    - <a href="https://dspillustrations.com/pages/index.html">Learning DSP Illustrated</a>

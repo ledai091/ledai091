@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### About me
 ### Resouces:
-1. **Machine Learning**: <a href="https://machinelearningcoban.com/">Machine Learning Cơ Bản - Vũ Hữu Tiệp</a>
+1. **Machine Learning**:
+   - <a href="https://machinelearningcoban.com/">Machine Learning Cơ Bản - Vũ Hữu Tiệp</a>
 2. **Deep Learning**: 
    - <a href="https://d2l.ai/">Dive into Deep Learning</a>
    - <a href="https://drive.google.com/file/d/1lNjzISABdoc7SRq8tg-xkCRRZRABPCKi/view">Deep Learning Cơ Bản - Nguyễn Thanh Tuấn</a>
@@ -16,4 +17,3 @@
    - <a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a>
 5. **RAG** - Planing
 6. **Self-Supervised** - Planing
-7. **Using OpenAI API** - Planing

@@ -16,3 +16,5 @@
    - <a href="https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0">Audio Signal Processing for Machine Learning - Valerio Velardo - The Sound of AI</a>
    - <a href="https://dspillustrations.com/pages/index.html">Learning DSP Illustrated</a>
    - <a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a>
+5. **ML Code Challenges**:
+   - <a href="https://www.deep-ml.com/">ML Code Challenges</a>

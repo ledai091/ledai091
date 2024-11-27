@@ -1,5 +1,5 @@
 ## Resoource 👋
-### About me
+### About me: A student with a deep passion for AI
 ### Resouces:
 1. **Machine Learning**:
    - <a href="https://machinelearningcoban.com/">Machine Learning Cơ Bản - Vũ Hữu Tiệp</a>
